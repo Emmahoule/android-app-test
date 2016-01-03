@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Project - Emma</string>
+
+    <string name="txt_search">Chercher un étudiant :</string>
+    <string name="txt_input">Nom de l\'étudiant</string>
+
+</resources>
