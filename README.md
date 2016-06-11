@@ -9,8 +9,3 @@ Android app with **4 fragments** (school project) :
 * Form Search fragment : search datas in SQLite Database
 
 Build with **android studio**.
-
-
-# Preview #
-
-![android.jpg](https://bitbucket.org/repo/zdnRog/images/3232276327-android.jpg)
